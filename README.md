@@ -220,3 +220,14 @@ Front e API vão **juntos** num só projeto da Vercel:
 
 *Minatech — Jornada de Tecnologia para Meninas · Florianópolis-SC*
 *minatech.floripa@gmail.com · (48) 99137-5245*
+
+---
+
+## 👥 Contribuidores
+
+| Nome | GitHub |
+|---|---|
+| Lucca Carneiro Della Pasqua | [@LuccaPasqua](https://github.com/LuccaPasqua) |
+| Renan | [@rojerio](https://github.com/rojerio) |
+| Pedro |  [@PMeyerCP](https://github.com/PMeyerCP)|
+| Rihards | [@RihardsSenai](https://github.com/RihardsSenai)  |
